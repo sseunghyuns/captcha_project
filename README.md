@@ -1,5 +1,5 @@
 # captcha_project
-## Opencv 라이브러리를 활용하여 이미지 속의 수식을 추출하기
+## Opencv 라이브러리를 활용하여 이미지 속의 수식 추출하기
 
 
 #### captcha_project는  유튜버 '동빈나'님의 [Python 데이터 분석과 이미지 처리] 영상을 참고하여 진행했습니다. 
